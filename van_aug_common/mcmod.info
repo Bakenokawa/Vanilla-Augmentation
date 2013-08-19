@@ -1,0 +1,20 @@
+[
+{
+  "modid": "VAN_AUG",
+  "name": "Vanilla Augmentation",
+  "description": "A new mod geared towards adding little, but very useful things branching for original minecraft concepts.",
+  "version": "0.0.1",
+  "url": "https://github.com/Bakenokawa/Vanilla-Augmentation",
+  "updateUrl": "",
+  "authorList": [
+    "pahimar"
+  ],
+  "credits": "By Bakenokawa, with inspirational help from my youngest brother!",
+  "logoFile": "",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]
